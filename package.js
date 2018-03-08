@@ -1,6 +1,6 @@
 Package.describe({
     name: 'shkomg:dash-js',
-    version: '0.0.1',
+    version: '0.0.2',
     summary: "A smart package that makes it easy to use Dash-js",
     git: 'https://github.com/shkomg/dash-js',
     documentation: 'README.md'
